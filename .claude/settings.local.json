@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell:*)",
+      "Bash(dir:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(Select-Object -First 100)",
+      "Bash(findstr:*)",
+      "Bash(cat:*)",
+      "Bash(timeout 120 bash -c 'while ! test -f \"\"C:\\Users\\f2302\\OneDrive\\Desktop\\ppt名牌\\職員名牌-批量生成.pptx\"\" || pgrep -f \"\"generate_name_cards_final.py\"\" > /dev/null 2>&1; do sleep 2; done; echo \"\"完成\"\"')",
+      "Bash(venvScriptspip install openpyxl pywin32)",
+      "Bash(.venvScriptspip.exe install openpyxl pywin32)",
+      "Bash(cmd /c:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

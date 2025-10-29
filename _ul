@@ -1,0 +1,288 @@
+============================================================
+PPT 名牌批量生成程式 v4.0
+============================================================
+
+步驟 1: 讀取 Excel 資料...
+   [OK] 讀取到 172 位員工資料
+   [OK] 需要生成 43 頁
+
+步驟 2: 解壓縮範本 PPT...
+   [OK] 解壓縮完成
+
+步驟 3: 複製投影片...
+   [OK] 複製了 42 個投影片
+
+步驟 4: 更新投影片清單...
+   [OK] 投影片清單更新完成
+
+步驟 5: 更新員工資料...
+
+   第 1 頁:
+      名牌 1: 朱健維 (Wayne Chu) - 分機 7605
+      名牌 2: 楊甯程 (Nixon Yang) - 分機 7018
+      名牌 3: 呂宜學 (Michelle Lu) - 分機 7597
+      名牌 4: 賴柏翰 (Victor PH Lai) - 分機 6265
+
+   第 2 頁:
+      名牌 1: 楊淳智 (Michael Yang) - 分機 7772
+      名牌 2: 蘇澄軒 (Ethan Su) - 分機 7020
+      名牌 3: 王藝臻 (Polly YC Wang) - 分機 7739
+      名牌 4: 黃培愷 (Pk Huang) - 分機 7622
+
+   第 3 頁:
+      名牌 1: 謝志明 (Jimmy Hsieh) - 分機 7760
+      名牌 2: 卓育岑 (Audrey Cho) - 分機 (空白)
+      名牌 3: 曾紹芳 (Mark Tseng) - 分機 (空白)
+      名牌 4: 張預昌 (Robbie Chang) - 分機 8114
+
+   第 4 頁:
+      名牌 1: 鄭鈺馨 (Lana Cheng) - 分機 7313
+      名牌 2: 黃孟婷 (Emma Mt Huang) - 分機 7995
+      名牌 3: 陳詠翔 (Jeremi Chen) - 分機 7860
+      名牌 4: 陳文琪 (Kiki WK Chen) - 分機 7987
+
+   第 5 頁:
+      名牌 1: 林志豪 (Alexander Lin) - 分機 7835
+      名牌 2: 萬冠賢 (Sam Wan) - 分機 7373
+      名牌 3: 吳長祐 (Tony CY Wu) - 分機 7719
+      名牌 4: 曹盛德 (Arnold Tsao) - 分機 7650
+
+   第 6 頁:
+      名牌 1: 高逸丞 (David Kao) - 分機 5566
+      名牌 2: 陳鵬宇 (Jonny Chen) - 分機 7027
+      名牌 3: 梁馨文 (Wendy Liang) - 分機 7289
+      名牌 4: 徐宏元 (Roy Hsu) - 分機 7747
+
+   第 7 頁:
+      名牌 1: 李俊賢 (Keynes Lee) - 分機 (空白)
+      名牌 2: 許益銓 (Ethan YC Hsu) - 分機 (空白)
+      名牌 3: 史培智 (Henry Shyy) - 分機 (空白)
+      名牌 4: 邱榮哲 (Gary Chiu) - 分機 (空白)
+
+   第 8 頁:
+      名牌 1: 嚴韶 (Shao Yen) - 分機 7293
+      名牌 2: 林顯昌 (Lynch Lin) - 分機 (空白)
+      名牌 3: 簡宏育 (Eric Chien) - 分機 (空白)
+      名牌 4: 王瑞斌 (Robin Wang) - 分機 7200
+
+   第 9 頁:
+      名牌 1: 陳昱晴 (Ivy YC Chen) - 分機 7477
+      名牌 2: 姚翔隆 (Rick Yao) - 分機 7201
+      名牌 3: 邱于軒 (Sheena Chiu) - 分機 7545
+      名牌 4: 周子閔 (Jeremy Chou) - 分機 6568
+
+   第 10 頁:
+      名牌 1: 林宜柔 (Evonne Lin) - 分機 (空白)
+      名牌 2: 黃家瑜 (Gary Huang) - 分機 (空白)
+      名牌 3: 陳柏羲 (Posey Chen) - 分機 (空白)
+      名牌 4: 黃百捷 (Patrick BJ Huang) - 分機 7543
+
+   第 11 頁:
+      名牌 1: 鄭俊霆 (Tim CT Cheng) - 分機 (空白)
+      名牌 2: 王筠豪 (Allen YH Wang) - 分機 7809
+      名牌 3: 陳宇陸 (Derek Chen) - 分機 (空白)
+      名牌 4: 詹豐瑋 (Alpha Zhan) - 分機 (空白)
+
+   第 12 頁:
+      名牌 1: 吳偉良 (William Wu) - 分機 (空白)
+      名牌 2: 許雅柔 (Grace Hsu) - 分機 6566
+      名牌 3: 林詠軒 (Delos Lin) - 分機 (空白)
+      名牌 4: 陳詠勝 (Jason Chen) - 分機 (空白)
+
+   第 13 頁:
+      名牌 1: 鄭元平 (Gp Tay) - 分機 7584
+      名牌 2: 何謙 (Erica C Ho) - 分機 7057
+      名牌 3: 楊晴安 (Shiny Yang) - 分機 6673
+      名牌 4: 吳昱駿 (Yujune Wu) - 分機 (空白)
+
+   第 14 頁:
+      名牌 1: 黃建閎 (Hungson Huang) - 分機 (空白)
+      名牌 2: 王哲 (Leo Wang) - 分機 (空白)
+      名牌 3: 陳柏源 (William Chen) - 分機 (空白)
+      名牌 4: 林保煒 (Powell Lin) - 分機 7088
+
+   第 15 頁:
+      名牌 1: 陳錦憲 (Allen CH Chen) - 分機 7789
+      名牌 2: 李婕瑀 (Karen C Lee) - 分機 7620
+      名牌 3: 楊雅婷 (Tina YT Yang) - 分機 7421
+      名牌 4: 潘嘉屏 (Emelie Pan) - 分機 7571
+
+   第 16 頁:
+      名牌 1: 李佳穎 (Rika Pajrin) - 分機 (空白)
+      名牌 2: 黃智隆 (Benson CH Huang) - 分機 (空白)
+      名牌 3: 高敬惟 (Bibby Kao) - 分機 (空白)
+      名牌 4: 廖國棟 (Ken KD Liao) - 分機 7981
+
+   第 17 頁:
+      名牌 1: 潘天惠 (William Pan) - 分機 7610
+      名牌 2: 黃筱琳 (Shirley Huang) - 分機 7007
+      名牌 3: 廖珮妤 (Penny Liao) - 分機 6089
+      名牌 4: 郝君友 (Juno Hao) - 分機 7360
+
+   第 18 頁:
+      名牌 1: 亞斯文 (Aswin Balaji) - 分機 7927
+      名牌 2: 宋怡岱 (Ariel Yt Sung) - 分機 6216
+      名牌 3: 付芳華 (Fannie Fu) - 分機 7292
+      名牌 4: 鄭東欣 (Pebble Cheng) - 分機 7694
+
+   第 19 頁:
+      名牌 1: 江謝宜霖 (Leo Chianghsieh) - 分機 7576
+      名牌 2: 庾宗毅 (Ken TY Yu) - 分機 7155
+      名牌 3: 林榆真 (Avery Lin) - 分機 7372
+      名牌 4: 曾寶萱 (Fiona Tseng) - 分機 7475
+
+   第 20 頁:
+      名牌 1: 方璿 (Function Fang) - 分機 (空白)
+      名牌 2: 周佳妮 (Anita Chou) - 分機 (空白)
+      名牌 3: [已處理]
+      名牌 4: 李東穎 (Tony Lee) - 分機 (空白)
+
+   第 21 頁:
+      名牌 1: 李瑞儒 (Caitlyn Lee) - 分機 (空白)
+      名牌 2: 劉永揚 (Erik Liu) - 分機 7899
+      名牌 3: 樊瑞麗 (Remi Fan) - 分機 7680
+      名牌 4: 沈岳霖 (Sam Yl Shen) - 分機 7659
+
+   第 22 頁:
+      名牌 1: 董柏麟 (Lawson Tung) - 分機 7730
+      名牌 2: 顏嘉文 (Moritz Yen) - 分機 7401
+      名牌 3: 林耘冰 (Ice Lin) - 分機 7861
+      名牌 4: 黃際軒 (Paul Huang) - 分機 7611
+
+   第 23 頁:
+      名牌 1: 張俊彥 (Swallow Chang) - 分機 7066
+      名牌 2: 呂理鈺 (Hubert Lu) - 分機 6611
+      名牌 3: 蔡傳德 (Rex CT Tsai) - 分機 7173
+      名牌 4: 朱彥侖 (Dixon Chu) - 分機 7294
+
+   第 24 頁:
+      名牌 1: 陳鈺萍 (Claire YP Chen) - 分機 7383
+      名牌 2: 周思婷 (Tina Chou) - 分機 7534
+      名牌 3: 朱怡寧 (Cathy Chu) - 分機 6195
+      名牌 4: 林怡妏 (Albee Lin) - 分機 6454
+
+   第 25 頁:
+      名牌 1: 蔡昀瑾 (Bella Tsai) - 分機 (空白)
+      名牌 2: 林暉恩 (Brian Lin) - 分機 6045
+      名牌 3: 陳昱憲 (Lambert Chen) - 分機 (空白)
+      名牌 4: 黃建傑 (Jim Huang) - 分機 (空白)
+
+   第 26 頁:
+      名牌 1: 劉易宸 (Ernie Liu) - 分機 (空白)
+      名牌 2: 陳祥睿 (Nick XR Chen) - 分機 (空白)
+      名牌 3: 謝知晉 (Jason JJ Hsieh) - 分機 7321
+      名牌 4: 王筱萍 (Lucy Wang) - 分機 6156
+
+   第 27 頁:
+      名牌 1: 蔡杰希 (Jesse Tsai) - 分機 7696
+      名牌 2: 李政勳 (James Ch Li) - 分機 7697
+      名牌 3: 陳冠廷 (Jimmy KT Chen) - 分機 (空白)
+      名牌 4: 鄭皓仁 (William Cheng) - 分機 (空白)
+
+   第 28 頁:
+      名牌 1: 邱秉辰 (Cruz Qiu) - 分機 (空白)
+      名牌 2: 楊竣評 (Terry Yang) - 分機 (空白)
+      名牌 3: 黃政宇 (Jeff Cy Huang) - 分機 (空白)
+      名牌 4: 劉凱民 (Kevin KM Liu) - 分機 7307
+
+   第 29 頁:
+      名牌 1: 張雋文 (Colin Chang) - 分機 7459
+      名牌 2: 蕭銘賢 (Neil Hsiao) - 分機 7417
+      名牌 3: 方昭元 (Will Fang) - 分機 7256
+      名牌 4: 許晏哲 (Danny YC Hsu) - 分機 7116
+
+   第 30 頁:
+      名牌 1: 廖祐陞 (Eric YS Liao) - 分機 7140
+      名牌 2: 曾致崢 (Zane Tseng) - 分機 7126
+      名牌 3: 周忠冠 (Jesse Chou) - 分機 7705
+      名牌 4: 張竣 (Diarmuid Chang) - 分機 6334
+
+   第 31 頁:
+      名牌 1: 瞿忠才 (Axl Chee) - 分機 7630
+      名牌 2: 張雅昀 (Mint Chang) - 分機 (空白)
+      名牌 3: 許桓瑜 (Tyler Hsu) - 分機 6574
+      名牌 4: 賴信志 (Jim Lai) - 分機 (空白)
+
+   第 32 頁:
+      名牌 1: 陳俊銘 (Jimmy CM Chen) - 分機 (空白)
+      名牌 2: 黃國益 (Kelvin Huang) - 分機 7443
+      名牌 3: 楊承翰 (Ch Yang) - 分機 7098
+      名牌 4: 王浩丞 (Edwin Wang) - 分機 7259
+
+   第 33 頁:
+      名牌 1: 林怡伶 (Elina Lin) - 分機 6091
+      名牌 2: 徐祥哲 (Sean HC Hsu) - 分機 7165
+      名牌 3: 許哲儒 (Jacky CJ Hsu) - 分機 6159
+      名牌 4: 曾羽銘 (Brook Tseng) - 分機 6209
+
+   第 34 頁:
+      名牌 1: 魏晟恩 (Sean Wei) - 分機 (空白)
+      名牌 2: 何品萱 (Wendy Ho) - 分機 7929
+      名牌 3: 趙士儀 (Emma Chao) - 分機 7345
+      名牌 4: 陳俊杰 (Webber Chen) - 分機 (空白)
+
+   第 35 頁:
+      名牌 1: 許愷文 (Kevin Hsu) - 分機 (空白)
+      名牌 2: 沈峻宇 (Nick Shen) - 分機 (空白)
+      名牌 3: 李方 (Issa Li) - 分機 (空白)
+      名牌 4: 吳愷容 (Claire KJ Wu) - 分機 (空白)
+
+   第 36 頁:
+      名牌 1: 蘇以諾 (Enor Su) - 分機 (空白)
+      名牌 2: 黃政廷 (Tim Huang) - 分機 (空白)
+      名牌 3: 林家弘 (Kevin Lin) - 分機 (空白)
+      名牌 4: 何玟嫺 (Wendy WH Ho) - 分機 (空白)
+
+   第 37 頁:
+      名牌 1: 陳文炳 (Waid Chen) - 分機 7148
+      名牌 2: 丁于倢 (Julie Din) - 分機 7348
+      名牌 3: 吳孟芸 (Nicky Wu) - 分機 7091
+      名牌 4: 林雨澤 (Troy YT Lin) - 分機 7128
+
+   第 38 頁:
+      名牌 1: 黃義傑 (Harry Huang) - 分機 (空白)
+      名牌 2: 詹博鈞 (Karl Chan) - 分機 (空白)
+      名牌 3: 張伯業 (Winston Chang) - 分機 (空白)
+      名牌 4: 張芃菲 (Shannon Chang) - 分機 6763
+
+   第 39 頁:
+      名牌 1: 彭雅絃 (Hannah Peng) - 分機 6765
+      名牌 2: 許文碩 (Vincent WS Hsu) - 分機 (空白)
+      名牌 3: 郭立辰 (Webber Kuo) - 分機 (空白)
+      名牌 4: 孫寧 (Sherry Sun) - 分機 (空白)
+
+   第 40 頁:
+      名牌 1: 葉泰辰 (Ted Ye) - 分機 (空白)
+      名牌 2: 黃茂軒 (Sean Huang) - 分機 (空白)
+      名牌 3: 賴承緒 (Gordon Lai) - 分機 (空白)
+      名牌 4: 陳冠綸 (Andre KL Chen) - 分機 (空白)
+
+   第 41 頁:
+      名牌 1: 劉威辰 (Andy Liu) - 分機 (空白)
+      名牌 2: 胡蕎伊 (Joy CY Hu) - 分機 (空白)
+      名牌 3: 謝忠哲 (George Hsieh) - 分機 7310
+      名牌 4: 林祐鈿 (Jimmy Lin) - 分機 (空白)
+
+   第 42 頁:
+      名牌 1: 莊祐軒 (Ethan YH Chuang) - 分機 7286
+      名牌 2: 周子鑑 (Zack Chou) - 分機 (空白)
+      名牌 3: 楊晶安 (Annie Yang) - 分機 (空白)
+      名牌 4: 張翊玲 (Linda Chang) - 分機 (空白)
+
+   第 43 頁:
+      名牌 1: 李家豪 (Brent Li) - 分機 (空白)
+      名牌 2: 李浩瑋 (Haowei Lee) - 分機 (空白)
+      名牌 3: 黃少鵬 (Jackie Huang) - 分機 (空白)
+      名牌 4: 詹雅茜 (Vivi Chan) - 分機 (空白)
+
+步驟 6: 打包 PPTX...
+   [OK] PPTX 打包完成
+
+步驟 7: 清理臨時檔案...
+   [OK] 清理完成
+============================================================
+[完成！]
+  - 總共生成: 43 頁
+  - 包含名牌: 172 個
+  - 輸出檔案: C:\Users\f2302\OneDrive\Desktop\ppt名牌\職員名牌-批量生成.pptx
+============================================================
