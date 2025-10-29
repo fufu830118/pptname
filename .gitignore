@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code
+.claude/settings.local.json
+
+# Excel 測試檔案
+*.xlsx
+*.xls
+
+# 生成的 PPT
+職員名牌_*.pptx
+
+# Windows
+Thumbs.db
+desktop.ini

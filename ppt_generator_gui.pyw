@@ -211,6 +211,11 @@ class PPTGeneratorGUI:
         self.log("  3. 點擊「開始生成 PPT」", "detail")
         self.log("  4. 完成後 PPT 會保持開啟供您檢查", "detail")
         self.log("")
+        self.log("✏️  英文名字自動格式化：", "info")
+        self.log("  • 1個字：開頭大寫 (Patrick)", "detail")
+        self.log("  • 2個字：都開頭大寫 (Patrick Huang)", "detail")
+        self.log("  • 3個字：中間名全大寫 (Patrick BJ Huang)", "detail")
+        self.log("")
         self.log("✨ 準備就緒，等待您的操作...", "success")
         self.log("=" * 65, "title")
         self.log("")
@@ -245,6 +250,37 @@ class PPTGeneratorGUI:
             for char in col:
                 result = result * 26 + (ord(char) - ord('A') + 1)
             return result
+
+    def format_english_name(self, name):
+        """
+        格式化英文名字：
+        - 3個字：中間名全大寫，其他兩個開頭大寫 (例如：Patrick BJ Huang)
+        - 2個字：都是開頭大寫 (例如：Patrick Huang)
+        - 1個字：開頭大寫 (例如：Patrick)
+        - 其他情況：保持原樣
+        """
+        if not name:
+            return ''
+
+        name_str = str(name).strip()
+        if not name_str:
+            return ''
+
+        # 分割名字（以空格分隔）
+        parts = name_str.split()
+
+        if len(parts) == 3:
+            # 3個字：第1個和第3個開頭大寫，第2個（中間名）全大寫
+            return f"{parts[0].capitalize()} {parts[1].upper()} {parts[2].capitalize()}"
+        elif len(parts) == 2:
+            # 2個字：都是開頭大寫
+            return f"{parts[0].capitalize()} {parts[1].capitalize()}"
+        elif len(parts) == 1:
+            # 1個字：開頭大寫
+            return parts[0].capitalize()
+        else:
+            # 其他情況保持原樣
+            return name_str
 
     def generate_ppt(self):
         # 驗證輸入
@@ -314,9 +350,12 @@ class PPTGeneratorGUI:
                 extension = ws.cell(row_num, extension_idx).value
 
                 if chinese_name or english_name:
+                    # 處理英文名字格式
+                    formatted_english = self.format_english_name(english_name)
+
                     employees.append({
                         'chinese_name': str(chinese_name).strip() if chinese_name else '',
-                        'english_name': str(english_name).strip() if english_name else '',
+                        'english_name': formatted_english,
                         'extension': str(extension).strip() if extension else ''
                     })
                 else:
