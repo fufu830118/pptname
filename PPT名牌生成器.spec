@@ -6,7 +6,13 @@ a = Analysis(
     pathex=[],
     binaries=[],
     datas=[('職員名牌-C24 1.pptx', '.')],
-    hiddenimports=[],
+    hiddenimports=[
+        'win32com',
+        'win32com.client',
+        'pythoncom',
+        'pywintypes',
+        'win32timezone'
+    ],
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
